@@ -19,7 +19,7 @@
 ## 📂 پروژه‌ها
 
 داخل ریپازیتوری ها نمونه کار هامو میتونید مشاهده کنید
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A3enator&icons=true&theme=onedark) 
+
 
 
 ## 📬 تماس با من
