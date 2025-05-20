@@ -14,10 +14,12 @@
 - 🌐 PHP
 - 🧱 WordPress
 - 🖌️ Elementor
+  
 
 ## 📂 پروژه‌ها
 
 داخل ریپازیتوری ها نمونه کار هامو میتونید مشاهده کنید
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?A3enator=yousefvafaei&show_icons=true&theme=radical)
 
 
 ## 📬 تماس با من
